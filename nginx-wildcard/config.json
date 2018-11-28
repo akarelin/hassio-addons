@@ -1,8 +1,8 @@
 {
-  "name": "NGINX minimal but customizable",
+  "name": "NGINX for wildcard SSLs",
   "version": "1",
-  "slug": "nginx-mini",
-  "description": "An SSL/TLS proxy",
+  "slug": "nginx-wildcard",
+  "description": "NGINX for wildcard SSLs",
   "url": "https://home-assistant.io/",
   "startup": "application",
   "boot": "auto",
