@@ -1,0 +1,1 @@
+# Nginx addon for hass.io
