@@ -6,7 +6,7 @@ DOCKER_PUSH="true"
 DOCKER_CACHE="true"
 DOCKER_WITH_LATEST="true"
 BRANCH=master
-REPOSITORY=https://github.com/home-assistant/hassio-addons
+REPOSITORY=https://github.com/akarelin/hassio-addons
 
 cleanup() {
     echo "[INFO] Cleanup."
