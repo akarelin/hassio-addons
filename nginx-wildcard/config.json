@@ -1,9 +1,9 @@
 {
   "name": "NGINX for wildcard SSLs",
-  "version": "1",
+  "version": "0.0.1",
   "slug": "nginx-wildcard",
   "description": "NGINX for wildcard SSLs",
-  "url": "https://home-assistant.io/",
+  "url": "https://github.com/akarelin/hassio-addons/tree/master/nginx-wildcard",
   "startup": "application",
   "boot": "auto",
   "ports": {
@@ -23,5 +23,5 @@
     "certfile": "str",
     "keyfile": "str",
   },
-  "image": "homeassistant/{arch}-addon-nginx_mini"
+  "image": "akarelin/{arch}-addon-nginx-wildcard"
 }
