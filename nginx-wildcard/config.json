@@ -1,8 +1,8 @@
 {
-  "name": "NGINX for wildcard certificates",
-  "version": "0.0.1",
-  "slug": "nginx-wildcard",
-  "description": "NGINX for wildcard certificates",
+  "name": "NGINX minimal but customizable",
+  "version": "1",
+  "slug": "nginx-mini",
+  "description": "An SSL/TLS proxy",
   "url": "https://home-assistant.io/",
   "startup": "application",
   "boot": "auto",
@@ -23,5 +23,5 @@
     "certfile": "str",
     "keyfile": "str",
   },
-  "image": "homeassistant/{arch}-addon-nginx_wildcard"
+  "image": "homeassistant/{arch}-addon-nginx_mini"
 }
